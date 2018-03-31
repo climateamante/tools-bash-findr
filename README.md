@@ -13,7 +13,8 @@
 
 #### todo: ####
 
- * change the number of results from parameter flag ``-r`` [x]
-	```bash
-		findr -r 20 "file name to search that has spaces"
-	```
+ * [x] change the number of results from parameter flag ``-r``
+ > completed: 03/30/2018
+ ```bash
+ findr -r 20 "file name to search that has spaces"
+ ```
